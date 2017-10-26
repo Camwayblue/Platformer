@@ -1,0 +1,10 @@
+.background    { background-image:url("https://supergents.files.wordpress.com/2017/10/bgx2.png");
+                 table-layout: fixed;
+                 border-spacing: 0;	 }
+.background td { padding: 0;          }
+.lava          { background: #660000; }
+.wall          { background:  #666666;   }
+.newWall	   { background: #000000;   }
+.game {
+  position: relative;
+}
